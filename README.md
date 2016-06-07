@@ -1,0 +1,2 @@
+# easyDiary
+IOS 
